@@ -1,4 +1,4 @@
-module badrpc/detach
+module github.com/badrpc/detach
 
 require (
 	github.com/badrpc/slog v0.0.0-20190710201953-e877332a78f4
