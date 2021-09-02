@@ -1,0 +1,8 @@
+github.com/badrpc/slog v0.0.0-20190710201953-e877332a78f4 h1:lEWMxKLUHRTzMJJNZpqu0DBkUi5yG77BAJQxZ/So1OI=
+github.com/badrpc/slog v0.0.0-20190710201953-e877332a78f4/go.mod h1:tzi5gv8jxFOELQgwJBMEDgysvoi2ittToKy8CAVz/fM=
+github.com/jhillyerd/go.enmime v0.6.1 h1:bhPBrnHKFsLklYrzISvhhBoPJFm7GlGRMD1MJhkptZI=
+github.com/jhillyerd/go.enmime v0.6.1/go.mod h1:dB/9fG50Otuz3ZxTDISH+tsq+1Y/spDwC5pShuEzH9s=
+github.com/sloonz/go-qprintable v0.0.0-20160203160305-775b3a4592d5 h1:kr3of2TY0avjMhryOvEOUExpDF5yYRs3PFUGpwsawUw=
+github.com/sloonz/go-qprintable v0.0.0-20160203160305-775b3a4592d5/go.mod h1:rvsMTVl5yyd7liGH3cxu5eRjfNcC1WkSKe4HBSZ3ZA4=
+golang.org/x/text v0.3.0 h1:g61tztE5qeGQ89tm6NTjjM9VPIm088od1l6aSorWRWg=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=

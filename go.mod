@@ -1,5 +1,7 @@
 module github.com/badrpc/detach
 
+go 1.16
+
 require (
 	github.com/badrpc/slog v0.0.0-20190710201953-e877332a78f4
 	github.com/jhillyerd/go.enmime v0.6.1
